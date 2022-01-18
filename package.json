@@ -50,7 +50,6 @@
     "@argent/smartwallet-utils": "^0.0.12",
     "@babel/plugin-transform-react-jsx": "^7.14.5",
     "@download/blockies": "^1.0.3",
-    "@netlify/plugin-nextjs": "^4.2.0",
     "@pooltogether/bnc-onboard": "1.36.0-b",
     "@pooltogether/bnc-onboard-hooks": "^1.1.0",
     "@pooltogether/current-pool-data": "^3.7.2",
